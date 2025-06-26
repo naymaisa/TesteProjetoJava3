@@ -25,11 +25,7 @@ import br.com.rpires.exceptions.TableException;
 import br.com.rpires.exceptions.TipoChaveNaoEncontradaException;
 import br.com.rpires.exceptions.TipoElementoNaoConhecidoException;
 
-/**
- * @author rodrigo.pires
- *
- * Classe genérica que implementa interface genérica com os métodos de CRUD
- */
+
 public abstract class GenericDAO<T extends Persistente, E extends Serializable> implements IGenericDAO<T,E> {
 
 

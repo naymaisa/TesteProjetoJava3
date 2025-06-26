@@ -11,10 +11,7 @@ import br.com.rpires.exceptions.TableException;
 import br.com.rpires.exceptions.TipoChaveNaoEncontradaException;
 import br.com.rpires.services.generic.GenericService;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 public class ClienteService extends GenericService<Cliente, Long> implements IClienteService {
 	
 	//private IClienteDAO clienteDAO;

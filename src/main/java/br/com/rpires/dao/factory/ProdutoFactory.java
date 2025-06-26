@@ -8,10 +8,7 @@ import java.sql.SQLException;
 
 import br.com.rpires.domain.Produto;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 public class ProdutoFactory {
 
 	

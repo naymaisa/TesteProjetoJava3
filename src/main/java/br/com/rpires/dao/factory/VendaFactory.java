@@ -10,10 +10,7 @@ import br.com.rpires.domain.Cliente;
 import br.com.rpires.domain.Venda;
 import br.com.rpires.domain.Venda.Status;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 public class VendaFactory {
 
 	public static Venda convert(ResultSet rs) throws SQLException {

@@ -1,8 +1,6 @@
 package br.com.rpires.exceptions;
 
-/**
- * @author rodrigo.pires
- */
+
 public class TipoChaveNaoEncontradaException extends Exception {
 
     

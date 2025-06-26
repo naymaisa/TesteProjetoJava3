@@ -8,10 +8,7 @@ import java.math.BigDecimal;
 import anotacao.ColunaTabela;
 import anotacao.Tabela;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 @Tabela("TB_PRODUTO_QUANTIDADE")
 public class ProdutoQuantidade {
 	

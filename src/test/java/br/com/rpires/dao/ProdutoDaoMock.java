@@ -8,10 +8,7 @@ import java.util.Collection;
 import br.com.rpires.domain.Produto;
 import br.com.rpires.exceptions.TipoChaveNaoEncontradaException;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 public class ProdutoDaoMock implements IProdutoDAO {
 
 	@Override

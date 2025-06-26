@@ -3,10 +3,7 @@
  */
 package br.com.rpires.exceptions;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 public class TableException extends Exception {
 
 	

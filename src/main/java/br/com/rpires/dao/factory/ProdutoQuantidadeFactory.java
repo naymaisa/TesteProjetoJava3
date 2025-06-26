@@ -9,10 +9,7 @@ import java.sql.SQLException;
 import br.com.rpires.domain.Produto;
 import br.com.rpires.domain.ProdutoQuantidade;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 public class ProdutoQuantidadeFactory {
 
 	public static ProdutoQuantidade convert(ResultSet rs) throws SQLException {

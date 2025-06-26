@@ -22,10 +22,7 @@ import br.com.rpires.exceptions.MaisDeUmRegistroException;
 import br.com.rpires.exceptions.TableException;
 import br.com.rpires.exceptions.TipoChaveNaoEncontradaException;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 public class ProdutoDAOTest {
 	
 	private IProdutoDAO produtoDao;

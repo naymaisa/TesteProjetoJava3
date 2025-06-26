@@ -8,10 +8,7 @@ import anotacao.Tabela;
 import anotacao.TipoChave;
 import br.com.rpires.dao.Persistente;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 @Tabela("TB_CLIENTE")
 public class Cliente implements Persistente {
 	

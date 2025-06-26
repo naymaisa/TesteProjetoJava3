@@ -26,10 +26,7 @@ import br.com.rpires.exceptions.MaisDeUmRegistroException;
 import br.com.rpires.exceptions.TableException;
 import br.com.rpires.exceptions.TipoChaveNaoEncontradaException;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 public class VendaDAO extends GenericDAO<Venda, String> implements IVendaDAO {
 	
 

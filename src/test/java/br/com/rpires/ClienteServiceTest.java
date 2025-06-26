@@ -15,10 +15,7 @@ import br.com.rpires.exceptions.TipoChaveNaoEncontradaException;
 import br.com.rpires.services.ClienteService;
 import br.com.rpires.services.IClienteService;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 public class ClienteServiceTest {
 	
 	private IClienteService clienteService;
